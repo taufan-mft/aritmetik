@@ -1,0 +1,11 @@
+C:\Users\Topan\Documents\GitHub\aritmetik\bin\Debug\aritmetik.exe.config
+C:\Users\Topan\Documents\GitHub\aritmetik\bin\Debug\aritmetik.exe
+C:\Users\Topan\Documents\GitHub\aritmetik\bin\Debug\aritmetik.pdb
+C:\Users\Topan\Documents\GitHub\aritmetik\bin\Debug\aritmetik.xml
+C:\Users\Topan\Documents\GitHub\aritmetik\obj\Debug\aritmetik.vbprojAssemblyReference.cache
+C:\Users\Topan\Documents\GitHub\aritmetik\obj\Debug\aritmetik.Form1.resources
+C:\Users\Topan\Documents\GitHub\aritmetik\obj\Debug\aritmetik.Resources.resources
+C:\Users\Topan\Documents\GitHub\aritmetik\obj\Debug\aritmetik.vbproj.GenerateResource.cache
+C:\Users\Topan\Documents\GitHub\aritmetik\obj\Debug\aritmetik.exe
+C:\Users\Topan\Documents\GitHub\aritmetik\obj\Debug\aritmetik.xml
+C:\Users\Topan\Documents\GitHub\aritmetik\obj\Debug\aritmetik.pdb
